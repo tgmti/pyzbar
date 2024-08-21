@@ -1,3 +1,7 @@
+### v0.1.10
+
+* #40 Location of zbar shared library from environment variable
+
 ### v0.1.9
 
 * #113 Add support for images loaded using imageio
